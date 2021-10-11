@@ -1,5 +1,5 @@
 Inicio
-Definir año_actual = 2021
+Definir anio_actual = 2021
 Preguntar al usuario = "¿Qué edad tienes?"
 Definir edad_actual = entrada del usuario
 Preguntaral usuario "¿A qué edad te vas a retirar?"
